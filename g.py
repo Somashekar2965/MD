@@ -1,2 +1,2 @@
-name=input()
+name=input("Somashekhar")
 usn=int(input())
